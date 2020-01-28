@@ -19,13 +19,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seandillon1224/react-boilerplate.git"
+    "url": "git+https://bitbucket.org:momentumsolar/safe_harbor_scanner_dash.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/seandillon1224/react-boilerplate/issues"
+    "url": "https://bitbucket.org:momentumsolar/safe_harbor_scanner_dash/issues"
   },
-  "homepage": "https://github.com/seandillon1224/react-boilerplate#readme",
+  "homepage": "https://bitbucket.org:momentumsolar/safe_harbor_scanner_dash.git#readme",
   "devDependencies": {
     "@babel/cli": "^7.7.7",
     "@babel/core": "^7.7.7",

@@ -26,12 +26,10 @@ if (process.env.NODE_ENV === "development") {
 }
 
 ReactDOM.render(
-  <React.StrictMode>
-    <DefaultErrorBoundary>
-      <ThemeProvider theme={theme}>
-        <App />
-      </ThemeProvider>
-    </DefaultErrorBoundary>
-  </React.StrictMode>,
+  <DefaultErrorBoundary>
+    <ThemeProvider theme={theme}>
+      <App />
+    </ThemeProvider>
+  </DefaultErrorBoundary>,
   document.getElementById("app")
 );

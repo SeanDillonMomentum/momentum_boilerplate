@@ -1,7 +1,8 @@
 import React from "react";
+import StyledHome from "./styles";
 
 const Home = () => {
-  return <div>Home</div>;
+  return <StyledHome>Home</StyledHome>;
 };
 
 export default Home;
